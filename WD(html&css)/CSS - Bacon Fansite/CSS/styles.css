@@ -1,0 +1,28 @@
+/*******************Tag Selectos******************/
+h1 {
+  color: red;
+  font-size:100px;
+}
+/*
+Selector(who?){property(what?):value(how);} */
+
+img:hover {
+  background-color:gold;
+}
+
+/******************Class Selectos*****************/
+.bacon
+{
+  background-color:green;
+}
+
+.grapes {
+  background-color:red;
+}
+.circular {
+  border-radius:100%;
+}
+/********************Id Selectos*****************/
+#heading {
+  color:violet;
+}
